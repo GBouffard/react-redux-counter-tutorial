@@ -1,13 +1,13 @@
 {
-  "name": "reduxapp",
+  "name": "react-redux-counter-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "KRUNAL LATHIYA",
-  "license": "ISC",
+  "author": "Guillaume Bouffard",
+  "license": "",
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
