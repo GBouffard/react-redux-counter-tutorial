@@ -4,7 +4,7 @@ This is the  React Redux Counter Tutorial from [appdividend.com](https://appdivi
 
 Status:
 ----
-In progress
+Completed :white_check_mark:
 
 How to run it:
 ----
